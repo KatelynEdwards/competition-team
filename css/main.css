@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: arial;
+    color: red;
+}
+h2 {
+    font-family: arial;
+}
+p {
+    font-family: arial;
+    color: blue;
+}
+input {
+    border: 10;
+    padding: 5px;
+    font-size: 18px;
+    font-family: arial;
+}
+header {
+    background: url("https://odishasuntimes.com/wp-content/uploads/2017/01/RED-CHILLI.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.first{
+    background-image: url("https://odishasuntimes.com/wp-content/uploads/2017/01/RED-CHILLI.jpg");
+}
+.second{
+    background-image: url("https://odishasuntimes.com/wp-content/uploads/2017/01/RED-CHILLI.jpg");
+}
+.dessert{
+    background-image: url("https://odishasuntimes.com/wp-content/uploads/2017/01/RED-CHILLI.jpg");
+}
+.price {
+    float: right;
+}
